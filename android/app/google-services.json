@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972994587449",
+    "project_id": "habitat-dd4b2",
+    "storage_bucket": "habitat-dd4b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972994587449:android:b4d3b37e3ad8d719bb16e8",
+        "android_client_info": {
+          "package_name": "com.example.habitat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLmbXCn57Pm9w9EE5p2S2ZozbF_jg0JFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
